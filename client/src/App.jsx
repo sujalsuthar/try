@@ -51,15 +51,6 @@ function App() {
         )}
       </section>
 
-      <section className="card steps">
-        <h2>How this matches your Vercel presentation</h2>
-        <ol>
-          <li>Create app in VS Code</li>
-          <li>Push code to GitHub</li>
-          <li>Import repo in Vercel</li>
-          <li>Deploy and share live URL</li>
-        </ol>
-      </section>
     </main>
   );
 }
