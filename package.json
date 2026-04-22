@@ -1,0 +1,12 @@
+{
+  "name": "vercel-react-node-demo",
+  "private": true,
+  "version": "1.0.0",
+  "description": "React + Node.js demo app for Vercel deployment presentation",
+  "scripts": {
+    "install:client": "npm install --prefix client",
+    "dev": "npm run dev --prefix client",
+    "build": "npm run build --prefix client",
+    "preview": "npm run preview --prefix client"
+  }
+}
